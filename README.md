@@ -16,17 +16,6 @@
 <p align="center">
 	<!-- default option, no dependency badges. -->
 </p>
-<hr>
-
-##  Quick Links
-
-> - [ Overview](#-overview)
-> - [ Repository Structure](#-repository-structure)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [ Running email-filters-spreadsheet](#-running-email-filters-spreadsheet)
-> - [ Contributing](#-contributing)
-> - [ License](#-license)
 
 
 ##  Overview
@@ -47,7 +36,6 @@ It was created because ProtonMail has a very bad filter management UX.
         └── header.siv
 ```
 
----
 
 ##  Getting Started
 
@@ -86,7 +74,6 @@ Use the following command to run email-filters-spreadsheet:
 poetry run python main.py
 ```
 
----
 
 ##  Contributing
 
@@ -123,7 +110,6 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 </details>
 
----
 
 ##  License
 
