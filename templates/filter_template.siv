@@ -1,0 +1,9 @@
+
+/**
+ * @type or
+ * @comparator is
+ * @comparator contains
+ */
+if anyof (address :all :comparator "i;unicode-casemap" :is "From" $emails ) {
+    fileinto "$filter_name";
+}
